@@ -1,5 +1,6 @@
-# Elevate-Labs-Task-8-Sales-Dashboard
 
+
+# **Sales Performance Dashboard (Task 8)**
 
 This project visualizes sales data using Tableau Public.
 It includes a line chart (sales over months), a bar chart (sales by region), and a pie chart (sales by category) combined into one dashboard.
@@ -12,5 +13,4 @@ It includes a line chart (sales over months), a bar chart (sales by region), and
 4. Office Supplies has the lowest sales.
 
 ---
-
 
